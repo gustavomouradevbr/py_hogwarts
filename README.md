@@ -29,4 +29,4 @@ Ele contém perguntas variadas sobre os livros e filmes, com respostas para desa
 ## Protótipo
 
 Você pode conferir o protótipo da interface e fluxo do quiz no Figma:  
-🔗 [Prototipação no Figma](https://www.figma.com/proto/EbJEh4fshmjPP0F0LlAlwR/Quiz.Hogwarts?node-id=27-2&starting-point-node-id=2%3A4)
+🔗 [Prototipação no Figma](https://www.figma.com/proto/EbJEh4fshmjPP0F0LlAlwR/Quiz.Hogwarts?node-id=2-4&p=f&t=4NDY0GdwOltMDANk-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4)
